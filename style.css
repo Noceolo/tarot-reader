@@ -1,0 +1,31 @@
+body {
+    background-color: #09091b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+
+}
+
+.container {
+    display: flex;
+    flex: auto;
+    justify-content: center;
+    align-items: center;
+    
+    width: 800px;
+    height: 800px;
+    box-sizing: border-box;
+    margin: 50px;
+}
+.centralBox {
+    
+    border: solid gold;
+    display: flex;
+    justify-content: center;
+    
+    height: 400px;
+    width: 400px;
+
+}
